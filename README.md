@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asterios Skretas 
 - 🌱 I’m Computer Engineer
-- 📫 How to reach me [![linkedin-logo-200x200](https://user-images.githubusercontent.com/20301691/178126816-9425bfe3-eb12-4f5c-a1e8-76350578e228.png)][1]
+- 📫 How to reach me [![linkedin-logo-100x100](https://user-images.githubusercontent.com/20301691/178126816-9425bfe3-eb12-4f5c-a1e8-76350578e228.png)][1]
 
 
 
